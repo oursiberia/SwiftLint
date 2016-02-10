@@ -50,6 +50,9 @@
 * Improve performance of `ColonRule`.  
   [Norio Nomura](https://github.com/norio-nomura)
 
+* `LintCommand` does not stop when SourceKitService crashes.  
+  [Norio Nomura](https://github.com/norio-nomura)
+
 ##### Bug Fixes
 
 * Fix case sensitivity of keywords for `valid_docs`.  
