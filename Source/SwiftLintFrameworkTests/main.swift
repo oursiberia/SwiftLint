@@ -18,6 +18,7 @@ XCTMain([
     RuleConfigurationsTests(),
     RulesTests(),
     RuleTests(),
+    SourceKitCrashTests(),
     YamlSwiftLintTests(),
     YamlParserTests(),
     ])
